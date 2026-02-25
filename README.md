@@ -23,6 +23,9 @@ Virtual Machines:
 - Kali Linux – Used for penetration testing and offensive security practices
 - Windows 10 – Used as a target system for testing and analysis
 
+  ![image alt](https://github.com/tanu40/Home-Lab/blob/e888696b67d14b9a43d2c5a6493bbd599537ec8d/VirtualBox%20Setup.png)
+
+
 Network Configuration:
 - Adapter Type: Internal Network
 - Network Name: (Example: intnet-lab)
